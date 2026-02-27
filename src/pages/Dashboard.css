@@ -1,0 +1,20 @@
+.hero-section {
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    margin-bottom: 48px;
+    flex-wrap: wrap;
+}
+
+.hero-image {
+    flex: 1;
+    min-width: 300px;
+    border-radius: 16px;
+    box-shadow: var(--shadow-lg);
+    object-fit: cover;
+}
+
+.hero-content {
+    flex: 1.2;
+    min-width: 300px;
+}
