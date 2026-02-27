@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Fitness-Tracking-Dashboard/static/css/main.0e5e7ec4.css",
-    "main.js": "/Fitness-Tracking-Dashboard/static/js/main.66906a0d.js",
+    "main.js": "/Fitness-Tracking-Dashboard/static/js/main.f1e157df.js",
     "static/js/453.45ab2b32.chunk.js": "/Fitness-Tracking-Dashboard/static/js/453.45ab2b32.chunk.js",
     "static/media/fitness.jpg": "/Fitness-Tracking-Dashboard/static/media/fitness.f7dce5c2af96b9be5b24.jpg",
     "index.html": "/Fitness-Tracking-Dashboard/index.html",
     "main.0e5e7ec4.css.map": "/Fitness-Tracking-Dashboard/static/css/main.0e5e7ec4.css.map",
-    "main.66906a0d.js.map": "/Fitness-Tracking-Dashboard/static/js/main.66906a0d.js.map",
+    "main.f1e157df.js.map": "/Fitness-Tracking-Dashboard/static/js/main.f1e157df.js.map",
     "453.45ab2b32.chunk.js.map": "/Fitness-Tracking-Dashboard/static/js/453.45ab2b32.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0e5e7ec4.css",
-    "static/js/main.66906a0d.js"
+    "static/js/main.f1e157df.js"
   ]
 }
